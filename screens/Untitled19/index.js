@@ -37,7 +37,9 @@ const styles = StyleSheet.create({
     flex: 1
   },
   column2: {
-    flex: 1
+    flex: 1,
+    width: 336,
+    height: 300
   },
   column3: {
     flex: 1
@@ -58,15 +60,16 @@ const styles = StyleSheet.create({
   },
   heACVMJb: {
     position: "absolute",
-    width: "100%",
-    height: 150,
+    width: 334,
+    height: 266,
     left: 0,
     top: 0
   },
   llgGewfw: {
     width: "100%",
     height: 60,
-    backgroundColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF",
+    borderRadius: 24
   },
   vlrJYBhy: {
     backgroundColor: "#000000",
@@ -94,7 +97,7 @@ const styles = StyleSheet.create({
     borderRadius: 0,
     position: "absolute",
     left: 157,
-    top: 18
+    top: 21
   },
   AfRhrpab: {
     width: 107,
