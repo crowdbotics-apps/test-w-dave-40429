@@ -73,11 +73,17 @@ const styles = StyleSheet.create({
   },
   KsSniPJU: {
     width: 61,
-    height: 36
+    height: 36,
+    position: "absolute",
+    top: 12,
+    left: 14
   },
   ErZPofsY: {
     width: 53,
-    height: 39
+    height: 39,
+    position: "absolute",
+    left: 85,
+    top: 10.5
   }
 });
 export default Untitled19;
